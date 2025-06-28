@@ -11,7 +11,7 @@ This project turns a regular pair of headphones into a **visual audio experience
 - 🎧 Audio sampled from headphone output
 - ⏱️ Real-time ADC sampling
 
-## 📷 Screenshots
+## 📷 Photos
 
 <p float="left">
   <img src="images/vu_meter.jpg" width="300" />
