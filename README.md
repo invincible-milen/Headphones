@@ -4,7 +4,7 @@ This project turns a regular pair of headphones into a **visual audio experience
 
 ## ✨ Features
 
-- 📊 VU Meter for audio signal amplitude (mono/stereo)
+- 📊 VU Meter for audio signal amplitude
 - 🌊 Real-time waveform display (oscilloscope-like)
 - ⚙️ Written **entirely in bare-metal C** — no HAL, no RTOS
 - 🎨 ST7735 1.8" TFT rendering via SPI
