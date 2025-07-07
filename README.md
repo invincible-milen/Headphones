@@ -16,7 +16,10 @@ This project turns a regular pair of headphones into a **visual audio experience
 <p align="center">
   <img src="photos/headphones_connection.jpeg" width="500" />
 </p>
-
+<p float="left" align="center">
+  <img src="photos/vu_meter.gif" width="300" style="margin-right: 20px;" />
+  <img src="photos/waveform.gif" width="300" />
+</p>
 
 
 ## 🧠 Why Bare Metal?
